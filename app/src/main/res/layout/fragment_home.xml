@@ -1,0 +1,9 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#9E3A6F"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+</LinearLayout>
